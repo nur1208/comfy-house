@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  max-width: 600px;
+  margin: 2rem auto 0;
+  padding: 1rem;
+}
+
+.item {
+  width: 100%;
+  padding: 1rem;
+  margin: 0 50px;
+  border: 15px solid #1f2e17;
+}
